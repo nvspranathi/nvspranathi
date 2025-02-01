@@ -3,7 +3,11 @@
 I am Pranathi. I am currently working in a product-based company "Nala Robotics". 
 I love to be a problem solver and be creative all the time. 
 Trying new things makes me happy and excited. 
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nvspranathi)](https://git.io/streak-stats)
+
+
 <!--
 **nvspranathi/nvspranathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
