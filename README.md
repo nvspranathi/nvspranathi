@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 I am Pranathi. 
-A passionate Python developer.
+A passionate Python and JAVA developer.
 I love to be a problem solver and be creative all the time. 
-Trying new things makes me happy and excited. 
+Trying out new things makes me happy and excited. 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nvspranathi)](https://git.io/streak-stats)
+
 
 
 <!--
