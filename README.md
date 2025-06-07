@@ -1,9 +1,12 @@
 ### Hi there 👋
-
-I am Pranathi. 
-A passionate Python and JAVA developer.
-I love to be a problem solver and be creative all the time. 
-Trying out new things makes me happy and excited. 
+Pranathi here!
+I'm currently working on ROS and Python. 
+I'm currently learning simulating robotic arms and AMRs.
+I'm looking for help with learning ROS and related stuff more better.
+Ask me about Python, ROS and AMRs.
+Reach me on pranathinvs@gmail.com
+Fun fact: I am more messy than a bunch of wires until I understand the stuff clearly.
+On my way to make the real cool stuff 💥
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nvspranathi)](https://git.io/streak-stats)
